@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b63cfa6230792264e84181cbbc22f2ec, type: 3}
+  m_Name: SoundConfig
+  m_EditorClassIdentifier: 
+  _soundDictionary:
+    Keys:
+    - lvl1
+    - lvl2
+    - match
+    - win
+    - gameOver
+    - button
+    - toggle
+    - openLvl
+    - menu
+    - newBonus
+    - bomb
+    - rocket
+    - matchExplosion
+    Values:
+    - {fileID: 8300000, guid: 0eb6581a141bf324e81b1e389b9fd6b4, type: 3}
+    - {fileID: 8300000, guid: 7429798ebbcba464fa48a978df5d8edd, type: 3}
+    - {fileID: 8300000, guid: df8e8664974e2864e879f3defd24a80c, type: 3}
+    - {fileID: 8300000, guid: 9d783feeb1e18924caf2822184eb9171, type: 3}
+    - {fileID: 8300000, guid: 9bf1a075082b32c4ea2692271eb1b3f7, type: 3}
+    - {fileID: 8300000, guid: 51c5e1ff64fc3b547b0660cdbd5e5eb3, type: 3}
+    - {fileID: 8300000, guid: 4e0b42ef0d563ce4d847c4ad29552f19, type: 3}
+    - {fileID: 8300000, guid: 866119397bef90d46a36275276968280, type: 3}
+    - {fileID: 8300000, guid: 5ed7358636bd0e643a05acd0fd492ed1, type: 3}
+    - {fileID: 8300000, guid: 72394b4bb814f0b4088817feb6f41565, type: 3}
+    - {fileID: 8300000, guid: d8a4dab27f225744196fa07821725770, type: 3}
+    - {fileID: 8300000, guid: c584a685e2dcb5b43b3a89bc221b10e7, type: 3}
+    - {fileID: 8300000, guid: 0c544006117fc02488d7f767fbb2bfdf, type: 3}
